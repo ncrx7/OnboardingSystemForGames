@@ -1,6 +1,6 @@
 # Onboarding System
 
-**Developed by [Batuhan Uysal](https://github.com/ncrx7), `PoolManager` is Reusable feature-onboarding (FTUE) system: queued "new feature" popups, unmask-overlay
+**Developed by [Batuhan Uysal](https://github.com/ncrx7), `Onboarding System Package` is Reusable feature-onboarding (FTUE) system: queued "new feature" popups, unmask-overlay
 spotlight tutorials, signal/timer based dismiss conditions and a Zenject-driven action pipeline.**
 
 You can set onboarding your new features to your game easily by using this package. 
