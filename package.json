@@ -1,0 +1,21 @@
+{
+  "name": "com.batuhanuysal.onboardingsystem",
+  "version": "1.0.0",
+  "displayName": "Onboarding System",
+  "description": "Reusable feature-onboarding system for Unity: queued feature popups, unmask-overlay spotlight tutorials, signal/timer based dismiss conditions and a Zenject-driven action pipeline. Project integration is done via the IOnboardingLevelProvider and IOnboardingSaveService adapter interfaces.",
+  "unity": "6000.0",
+  "author": {
+    "name": "Batuhan Uysal"
+  },
+  "dependencies": {
+    "com.cysharp.unitask": "2.5.10",
+    "com.coffee.unmask": "1.0.0",
+    "com.unity.addressables": "1.21.21"
+  },
+  "keywords": [
+    "onboarding",
+    "tutorial",
+    "ftue",
+    "unmask"
+  ]
+}
